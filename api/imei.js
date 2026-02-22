@@ -16,8 +16,8 @@ export default async function handler(req, res) {
 
     // Modify the credit section
     if (data.credit) {
-      data.credit.owner = "@Akashishare";
-      data.credit.channel = "@akashishare3";
+      data.credit.owner = "@Akash_Exploitss_bot";
+      data.credit.channel = "@Akash_Exploitss_bot";
     }
 
     // Return the modified JSON
